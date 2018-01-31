@@ -1,0 +1,87 @@
+Partlist
+
+Exported from MedidorEnergia.brd at 27/2/17 23:17
+
+EAGLE Version 7.7.0 Copyright (c) 1988-2016 CadSoft
+
+Assembly variant: 
+
+Part     Value          Package      Library            Position (mm)         Orientation
+
+C1       100nF          C0603        rcl                (56.769 47.244)       R0
+C2       100nF          C0603        rcl                (9.827 42.02)         R90
+C3       100nF          C0603        resistor           (43.815 39.878)       R180
+C4       22pF           C0603        resistor           (37.839 29.859)       R270
+C5       10uF 6V        C0603        resistor           (29.693 20.166)       R180
+C6       10uF 6V        C0603        resistor           (43.966 20.236)       R180
+C7       10uF 6V        C0603        resistor           (58.732 15.871)       R270
+C8       100nF          C0603        resistor           (60.325 57.785)       R90
+C9       10uF 6V        C0603        resistor           (12.219 66.2686)      R0
+C10      100nF          C0603        rcl                (53.828 28.148)       R180
+C11      22pF           C0603        resistor           (42.715 29.823)       R270
+C12      10uF 6V        C0603        resistor           (26.189 66.2686)      R0
+C13      10uF 6V        C0603        resistor           (38.889 66.2686)      R0
+C14      10uF 6V        C0603        resistor           (53.24 66.1416)       R0
+C15      10uF 6V        C0603        resistor           (52.07 57.7866)       R90
+C16      10uF           C0603        rcl                (53.848 30.861)       R180
+C17      1uF 25V        C0603        resistor           (38.1 58.4216)        R180
+C18      47uF 16V       PANASONIC_D  resistor           (12.974 27.2204)      R0
+C29      0R             R0603        resistor           (55.753 24.787)       R90
+CN1      2.1MM          SPC4077      con-jack           (13.115 9.322)        R90
+CT1      STEREOJACK     STX3100      adafruit           (15.489 79.6186)      R270
+CT2      STEREOJACK     STX3100      adafruit           (28.584 79.6186)      R270
+CT3      STEREOJACK     STX3100      adafruit           (41.949 79.6186)      R270
+CT4      STEREOJACK     STX3100      adafruit           (56.33 79.4916)       R270
+CT5      STEREOJACK     STX3100      adafruit           (26.033 2.054)        R90
+CT6      STEREOJACK     STX3100      adafruit           (41.108 1.954)        R90
+CT7      STEREOJACK     STX3100      adafruit           (56.283 2.154)        R90
+D1       1N4148         SOD-323      SparkFun           (17.995 16.3776)      R0
+D2       ESD5Z3.3T1G    SOD-523      microbuilder       (38.735 52.705)       R0
+D3       ESD5Z3.3T1G    SOD-523      microbuilder       (40.005 52.705)       R0
+D4       ESD5Z3.3T1G    SOD-523      microbuilder       (41.275 52.705)       R0
+D5       ESD5Z3.3T1G    SOD-523      microbuilder       (42.545 52.705)       R0
+D6       ESD5Z3.3T1G    SOD-523      microbuilder       (52.07 52.07)         R90
+D7       ESD5Z3.3T1G    SOD-523      microbuilder       (22.746 19.33)        R270
+D8       ESD5Z3.3T1G    SOD-523      microbuilder       (38.027 19.254)       R180
+D9       ESD5Z3.3T1G    SOD-523      microbuilder       (51.059 18.871)       R180
+ISP1     2x3            2X3          SparkFun           (67.366 47.925)       R90
+JP1      FTDI           FTDI_BASIC   SparkFun           (13.3964 47.088)      R90
+JP2                     1X02_LOCK    SparkFun           (9.448 21.0656)       R270
+LED1     Red 1.85V      CHIP-LED0805 adafruit           (13.556 42.035)       R180
+Q1       16Mhz          HC49/S       adafruit           (40.232 34.441)       R180
+R1       470K           R0603        rcl                (16.029 66.2686)      R180
+R2       470K           R0603        rcl                (29.999 66.2686)      R180
+R4       470K           R0603        rcl                (29.999 63.7286)      R180
+R6       470K           R0603        rcl                (16.029 63.7286)      R180
+R10      1K             R0603        rcl                (16.324 42.123)       R270
+R11      470K           R0603        rcl                (46.99 57.7866)       R90
+R12      470K           R0603        rcl                (49.53 57.7866)       R270
+R13      120K           R0603        rcl                (41.91 57.7866)       R270
+R14      10K            R0603        rcl                (44.45 57.7866)       R90
+R15      470K           R0603        rcl                (57.05 66.1416)       R180
+R17      470K           R0603        rcl                (57.05 63.6016)       R180
+R19      1K             R0603        rcl                (20.004 65.632)       R270
+R20      1K             R0603        rcl                (34.174 65.432)       R270
+R21      470K           R0603        rcl                (42.699 66.2686)      R180
+R23      470K           R0603        rcl                (42.699 63.7286)      R180
+R24      120K           R0603        rcl                (62.343 41.416)       R180
+R25      1K             R0603        rcl                (47.274 65.532)       R270
+R26      1K             R0603        rcl                (60.225 65.505)       R270
+R27      470K           R0603        rcl                (29.743 15.836)       R180
+R28      1K             R0603        rcl                (50.1634 53.975)      R180
+R29      56R 0.25W      R1206        resistor           (18.2816 20.222)      R90
+R32      10K            R0603        adafruit           (55.245 57.785)       R90
+R33      470K           R0603        rcl                (29.743 24.207)       R180
+R35      1K             R0603        rcl                (23.475 15.848)       R90
+R36      470K           R0603        rcl                (43.973 24.207)       R180
+R38      470K           R0603        rcl                (43.973 16.136)       R180
+R40      1K             R0603        rcl                (38.026 15.91)        R90
+R41      470K           R0603        rcl                (54.615 15.841)       R270
+R43      470K           R0603        rcl                (62.859 16.602)       R0
+R45      1K             R0603        rcl                (51.02 15.756)        R90
+S2                      B3F-10XX     switch-omron       (13 35.2)             R0
+SL1                     07P          con-amp-quick      (24.436 41.892)       R270
+U$11     MCP1754        SOT89        OpenEnergyMonitor  (13.555 19.248)       R180
+U$14     RFM12B         RFM12B       JeeParts           (64.135 29.337)       R270
+U1       ATMEGA168      TQFP32-08    SparkFun-DigitalIC (48.895 45.085)       R45
+U1_TQFP  ATMEGA328P     TQFP32-08    SparkFun-DigitalIC (48.895 45.085)       R45
